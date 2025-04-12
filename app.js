@@ -12,3 +12,5 @@ h1.addEventListener("click",()=>{
     changeColor("pink",4000);
     changeColor("green",5000);
 });
+
+//add new feature ---form
